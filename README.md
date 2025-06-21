@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Tarun Khilani, a Senior AI Developer based in Ahmedabad, India, with a passion for AI, Machine Learning, and Computer Vision.
+👋 Hi there! I'm Tarun Khilani, a Senior AI Developer based in Bangalore, India, with a passion for AI, Machine Learning, and Computer Vision.
 
 🎓 I hold a B.Tech in Electronics and Communication with a minor in Computer Science from the Institute of Technology, Nirma University.
 
